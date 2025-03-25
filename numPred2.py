@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 
 
 # lê o dataset de MNIST
-data = pd.read_csv("C:/Users/gabri/Desktop/numPred-main/mnist_train.csv")
+data = pd.read_csv("coloque o path do MNIST.csv")
 
 
 # usado para facilitar a manipulação dos dados e permitir o uso de algebra
